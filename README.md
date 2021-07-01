@@ -1,8 +1,8 @@
 # Opa, tudo bom? 👋
 
-Meu nome é Guilherme Santiago, sou apenas um entusiasta apaixonado pela área que decidiu descobrir um pouco mais sobre esse mundo!💻
+Meu nome é Guilherme Santiago, sou apenas um entusiasta apaixonado pela área que decidiu descobrir um pouco mais sobre esse mundo!🌍
 
-### ⚡ "Veni Vidi Vici" 🌍
+### ⚡ "Veni Vidi Vici" 🧠
 
 - 📍  Fortaleza, CE
 - 💻 Estudante Fullstack
