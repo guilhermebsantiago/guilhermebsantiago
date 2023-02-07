@@ -21,6 +21,8 @@ Meu nome é Guilherme Santiago, sou apenas um entusiasta apaixonado pela área q
   <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gui-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/reactjs.svg">
+  <img align="center" alt="gui-next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/nextjs.svg">
 </div>
 
 Minhas redes sociais 👇🏼
