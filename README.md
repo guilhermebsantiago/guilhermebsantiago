@@ -1,12 +1,12 @@
 # Opa, tudo bom? 👋
 
-Meu nome é Guilherme Santiago, sou apenas um entusiasta apaixonado pela área que decidiu descobrir um pouco mais sobre esse mundo!🌍
+Meu nome é Guilherme Santiago, sou apenas um estudante apaixonado pela área que decidiu descobrir um pouco mais sobre esse mundo!🌍
 
 
 ### ⚡ "Veni Vidi Vici" 🧠
 
 - 📍  Fortaleza, CE
-- 💻 Estudante Fullstack
+- 💻 Desenvolvedor Fullstack
 - 🚀 1% melhor todo dia
 
 ##
@@ -22,7 +22,7 @@ Meu nome é Guilherme Santiago, sou apenas um entusiasta apaixonado pela área q
   <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gui-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="gui-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="gui-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
 
 Minhas redes sociais 👇🏼
@@ -42,5 +42,5 @@ Minhas redes sociais 👇🏼
     </a>
 </div>
 
-![Snake animation](https://github.com/GuilhermeBSant/GuilhermeBSant/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/guilhermebsantiago/guilhermebsantiago/blob/output/github-contribution-grid-snake.svg)  
  
