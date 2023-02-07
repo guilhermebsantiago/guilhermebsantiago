@@ -12,9 +12,9 @@ Meu nome é Guilherme Santiago, sou apenas um entusiasta apaixonado pela área q
 ##
 
 <div>
-  <a href="https://github.com/guilhermebsant">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBSant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBSant&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/guilhermebsantiago">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermebsantiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebsantiago&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
