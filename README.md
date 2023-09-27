@@ -12,10 +12,10 @@ Meu nome é Guilherme Santiago, sou apenas um estudante apaixonado pela área qu
 ##
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="gui-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="gui-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="gui-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="gui-nest" height="30" width="40" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="typescript-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="reactjs-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="nextjs-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="nestjs-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg">
 </div>
 
 Entre em contato comigo 👇🏼
