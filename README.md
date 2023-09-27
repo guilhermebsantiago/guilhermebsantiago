@@ -19,9 +19,12 @@ Meu nome é Guilherme Santiago, sou apenas um estudante apaixonado pela área qu
   <img align="center" alt="gui-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
 
-Minhas redes sociais 👇🏼
+Entre em contato comigo 👇🏼
 
 <div>
+    <a target='_blank' href="https://guilhermebs.me">
+        <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=superuser&logoColor=white">
+    </a>
     <a target='_blank' href="https://www.instagram.com/guilhermebsantiago">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
