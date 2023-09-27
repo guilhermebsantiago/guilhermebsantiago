@@ -1,6 +1,6 @@
 # Opa, tudo bom? 👋
 
-Meu nome é Guilherme Santiago, sou apenas um estudante apaixonado pela área que decidiu descobrir um pouco mais sobre esse mundo!🌍
+Meu nome é Guilherme Santiago, e adoro desenvolver aplicações web! 🌍
 
 
 ### ⚡ "Veni Vidi Vici" 🧠
