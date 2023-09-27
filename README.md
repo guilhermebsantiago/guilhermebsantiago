@@ -15,7 +15,7 @@ Meu nome é Guilherme Santiago, sou apenas um estudante apaixonado pela área qu
   <img align="center" alt="gui-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="gui-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="gui-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="gui-nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="gui-nest" height="30" width="40" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/nestjs/nestjs-original.svg">
 </div>
 
 Entre em contato comigo 👇🏼
