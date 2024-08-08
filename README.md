@@ -32,5 +32,4 @@ Entre em contato comigo 👇🏼
     </a>
 </div>
 
-![snake gif](https://github.com/guilhermebsantiago/guilhermebsantiago/blob/output/github-contribution-grid-snake.gif)
  
