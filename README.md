@@ -21,7 +21,7 @@ Meu nome é Guilherme Santiago, e adoro desenvolver aplicações web! 🌍
 Entre em contato comigo 👇🏼
 
 <div>
-    <a target='_blank' href="https://guilhermebs.me">
+    <a target='_blank' href="https://guilhermebs.com.br">
         <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=superuser&logoColor=white">
     </a>
     <a target='_blank' href="https://www.instagram.com/guilhermebsantiago">
