@@ -24,9 +24,6 @@ Entre em contato comigo 👇🏼
     <a target='_blank' href="https://guilhermebs.com.br">
         <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=superuser&logoColor=white">
     </a>
-    <a target='_blank' href="https://www.instagram.com/guilhermebsantiago">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
     <a target='_blank' href="mailto:guilhermebscontact@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
