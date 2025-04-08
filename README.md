@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Santiago!
+# 👋 Oi, eu sou o Guilherme
 
 Desenvolvedor Full Stack apaixonado por criar aplicações web modernas, performáticas e com ótima experiência para o usuário. 
 
