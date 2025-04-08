@@ -5,10 +5,6 @@ Meu nome é Guilherme Santiago, e adoro desenvolver aplicações web! 🌍
 
 ### ⚡ "Veni Vidi Vici" 🧠
 
-- 📍  Fortaleza, CE
-- 💻 Desenvolvedor Fullstack
-- 🚀 1% melhor todo dia
-
 ##
     
 <div style="display: inline_block"><br>
